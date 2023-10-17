@@ -119,8 +119,8 @@ plt.title('Loss rate in function of the time')
 
 plt.legend()
 
-# plt.savefig('myfig.pdf')
-# plt.show()
+plt.savefig('myfig.pdf')
+plt.show()
 
 print(df_lossRates)
 
